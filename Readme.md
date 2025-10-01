@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Леся Пшеничникова](https://up.htmlacademy.ru/adaptive-individual/2/user/2615913).
-* Наставник: `Неизвестно`.
+* Наставник: [Мария Филиппова](https://htmlacademy.ru/profile/wonderjs)
 
 ---
 
